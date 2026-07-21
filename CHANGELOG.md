@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.22.1](https://github.com/santifer/career-ops/compare/career-ops-v1.22.0...career-ops-v1.22.1) (2026-07-21)
+
+
+### Bug Fixes
+
+* **agents:** compress AGENTS.md ~20% with zero semantic loss ([#2094](https://github.com/santifer/career-ops/issues/2094)) ([bd7b377](https://github.com/santifer/career-ops/commit/bd7b3771dbb72bbc38d4e80fc281b25442d9bbaf))
+* restore the Kimi SKILL.md entrypoint as a real symlink ([82e86a0](https://github.com/santifer/career-ops/commit/82e86a0e8ec7e4985028ac26e87f71a55968d430))
+* **skill:** routing drift + discoverable metadata across the agent surface ([8ac6261](https://github.com/santifer/career-ops/commit/8ac6261e6ce75700727bf830def1af2bc78b6249))
+
 ## [1.22.0](https://github.com/santifer/career-ops/compare/career-ops-v1.21.0...career-ops-v1.22.0) (2026-07-21)
 
 
